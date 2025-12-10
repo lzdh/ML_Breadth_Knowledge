@@ -3,7 +3,7 @@ A personal study tool for preparing ML interviews.
 
 If you spot mistakes, inaccuracies, or have suggestions for improvement, please feel free to open an issue or submit a pull request — contributions are welcome!
 
-All parts have been uploaded!
+All parts have been uploaded! Happy reading and sharing!
 
 
 Note: This document is under :point_right:
